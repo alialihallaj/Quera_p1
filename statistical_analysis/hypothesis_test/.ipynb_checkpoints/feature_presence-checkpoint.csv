@@ -1,0 +1,17 @@
+feature,property_types_with_True
+has_pool,"['house-villa-sell', 'villa', 'house-villa-rent']"
+has_jacuzzi,"['house-villa-sell', 'villa', 'house-villa-rent']"
+has_sauna,"['house-villa-sell', 'villa', 'house-villa-rent']"
+has_barbecue,"['villa', 'house-villa-sell', 'house-villa-rent']"
+has_balcony,"['apartment-sell', 'apartment-rent', 'house-villa-sell', 'house-villa-rent', 'plot-old']"
+has_elevator,"['apartment-sell', 'apartment-rent', 'office-rent', 'office-sell']"
+has_warehouse,"['apartment-sell', 'apartment-rent', 'house-villa-sell', 'house-villa-rent', 'office-rent', 'office-sell', 'plot-old']"
+has_parking,"['apartment-sell', 'apartment-rent', 'office-rent', 'house-villa-sell', 'house-villa-rent', 'office-sell', 'plot-old', 'industry-agriculture-business-sell']"
+has_water,"['house-villa-sell', 'villa', 'house-villa-rent', 'apartment-sell']"
+has_warm_water_provider,[]
+has_electricity,"['house-villa-sell', 'villa', 'house-villa-rent', 'apartment-sell']"
+has_gas,"['house-villa-sell', 'villa', 'house-villa-rent', 'apartment-sell']"
+has_heating_system,[]
+has_cooling_system,[]
+has_restroom,[]
+has_security_guard,"['house-villa-sell', 'villa', 'house-villa-rent']"
